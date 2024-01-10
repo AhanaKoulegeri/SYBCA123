@@ -10,5 +10,8 @@ public class Project1 {
 
 
 	}
+	void display() {
+		System.out.println("New Branch");
+	}
 
 }
